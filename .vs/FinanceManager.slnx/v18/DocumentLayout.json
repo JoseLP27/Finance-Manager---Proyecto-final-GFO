@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|c:\\users\\dell\\desktop\\4to semestre\\programacion de aplicaciones de escritorio\\financemanager\\financemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|c:\\users\\dell\\desktop\\4to semestre\\programacion de aplicaciones de escritorio\\financemanager\\financemanager\\models\\estadoresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\models\\estadoresultados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|c:\\users\\dell\\desktop\\4to semestre\\programacion de aplicaciones de escritorio\\financemanager\\financemanager\\models\\balancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AA60D1-6970-33C3-B8C7-A90D6C0FCEDB}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\models\\balancegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinanceManager\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:28:36.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoResultados.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\Models\\EstadoResultados.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Models\\EstadoResultados.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\Models\\EstadoResultados.cs",
+              "RelativeToolTip": "FinanceManager\\Models\\EstadoResultados.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:23:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BalanceGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\Models\\BalanceGeneral.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Models\\BalanceGeneral.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\4to Semestre\\Programacion de Aplicaciones de Escritorio\\FinanceManager\\FinanceManager\\Models\\BalanceGeneral.cs",
+              "RelativeToolTip": "FinanceManager\\Models\\BalanceGeneral.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:22:57.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
